@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Another kind of post!"
-date:   2018-10-20 02:43:41 -0400
-categories: jekyll update
+title:  "Avoiding the meta post"
+date:   2018-10-20 013:40:41 -0400
+categories: meta
 ---
-honestly all i need is markdown
-# see what i mean?
-all i need.
+
+What is this?
