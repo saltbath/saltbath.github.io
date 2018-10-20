@@ -1,6 +1,11 @@
 ---
 layout: content
-title: About
+title: about
 permalink: /about/
 ---
-This is your about page where you write about yourself in third person and share some links for people to follow you. Take advantage of it.
+
+Justine Chung is a virtual reality researcher, video producer, and writer. She talkes excitedly
+about the future, and isn't against analog. 
+
+She currently studies philosophy in Boston, and in case anyone is interested, primarily works in meta-ethics and
+philosophical methodology. She also has academic interests in STS and Internet studies.

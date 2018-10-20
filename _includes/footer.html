@@ -1,4 +1,20 @@
-<footer class="c-page__footer">
-    <p>&copy; {{ site.author }} {{ 'now' | date: '%Y' }}</p>
-    <p>Follow: {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a><span class="u-separate"></span>{% endif %}{% if site.github_username %}<a href="https://github.com/{{ site.github_username }}">Github</a>{% endif %}</p>
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <div class="social-media-list">
+          {% if site.email %}
+            <a href="mailto:{{ site.email }}">Email</a>
+          {% endif %}
+
+
+          {% if site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+          {% endif %}
+        </div>
+      </div>
+
+     
+    </div>
+  </div>
 </footer>
