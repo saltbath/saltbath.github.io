@@ -7,7 +7,7 @@ categories: research promo
 
 Just a while ago, Laura Ferguson from Tufts Now wrote a piece
 on the research I did this summer.  Every year, Tufts sponsors a small cohort of
-undergraduate researchers to conduct independent research with faculty mentorship.
+undergraduates to conduct independent research with faculty mentorship.
 This summer, I was incredibly lucky -- lucky enough to get the chance to delve into what is most fascinating to me:
 the emerging medium of cinematic virtual reality, and the new aesthetic and cognitive experiences it affords.
 
