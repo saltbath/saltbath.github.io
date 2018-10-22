@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "tag: grad"
+title: "grad"
 tag: grad
 permalink: /tags/grad/
 ---

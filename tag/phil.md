@@ -1,5 +1,6 @@
 ---
 layout: tagpage
-title: "posts about phil"
+title: "phil"
 tag: phil
+url: /tag/phil/
 ---

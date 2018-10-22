@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "meta posts"
+title: "meta"
 tag: meta
 permalink: /tag/meta/
 ---
