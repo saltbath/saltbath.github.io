@@ -2,7 +2,7 @@
 layout: post
 title:  "the long-dreaded meta post"
 date:   2018-10-20 013:40:41 -0400
-categories: meta
+tags: meta
 ---
 
 What is this?

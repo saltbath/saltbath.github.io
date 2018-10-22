@@ -2,7 +2,7 @@
 layout: post 
 title:  "tufts coverage of my summer research" 
 date: 2018-10-20 02:43:41 -0400 
-categories: research promo 
+tags: research promo 
 ---
 
 Just a while ago, Laura Ferguson from Tufts Now wrote a piece

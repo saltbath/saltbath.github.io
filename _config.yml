@@ -26,8 +26,15 @@ twitter_username: jekyllrb
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-assets
+  - jekyll/tagging
 include: [_pages]
 permalink: none
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+ignored_tags: [promo]
 
     
 

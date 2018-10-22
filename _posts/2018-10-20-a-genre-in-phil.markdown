@@ -2,7 +2,7 @@
 layout: post
 title:  "there is a genre in phil"
 date:   2018-10-20 013:40:41 -0400
-categories: phil
+tags: phil
 ---
 
 There is an interesting genre in philosophy. The theorist begins with a little sociological
