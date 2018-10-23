@@ -4,6 +4,7 @@ title: tags
 url: /tag/
 ---
 
+<h2>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
@@ -13,3 +14,4 @@ url: /tag/
     </a>
 </span>
 {% endfor %}
+</h2>
