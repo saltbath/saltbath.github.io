@@ -10,7 +10,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}&emsp14;
-    <a href="/tag/{{ post.tags }}">{{ tag }}&nbsp;</a>
+    <a href="/tag/{{ post.tags }}">{{ post.tag }}&nbsp;</a>
   		</span> 
       </li>
     {% endfor %}
