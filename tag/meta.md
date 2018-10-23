@@ -2,5 +2,5 @@
 layout: tagpage
 title: "meta"
 tag: meta
-permalink: /tag/meta/
+url: /tag/meta/
 ---
