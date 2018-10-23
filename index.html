@@ -10,6 +10,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}&emsp14;</span> 
+     {% endfor %}
  
  <span>
   {% for tag in page.tags %}
@@ -18,8 +19,8 @@ layout: default
   {% endfor %}
 </span>       
         
-  		
+
       </li>
-    {% endfor %}
+
   </ul>
 </div>
