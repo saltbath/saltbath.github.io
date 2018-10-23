@@ -10,13 +10,14 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>&emsp14; 
-			{% for tag in post.tags %}
-    <a href="/tag/{{ post.tags }}">{{ post.tags }}&nbsp;</a>
-  			{% endfor %}        
+<span>
+  {% for tag in post.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}">{{ tag_name }}&nbsp;</a>
+  {% endfor %}
+</span>      
      {% endfor %}
  
-
-
 
       </li>
 
