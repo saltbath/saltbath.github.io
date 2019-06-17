@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title:  "linguistic gaps in vr" 
+title:  "linguistic gaps in vr discourse" 
 date: 2019-06-30 02:43:41 -0400 
 tags: vr 
 ---

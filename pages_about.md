@@ -3,7 +3,7 @@ layout: page
 title: about
 url: /about/
 ---
-justine is a VR artist and researcher, writer, filmmaker, and experimental media producer. she enjoys staging interactions in immersive media, 
+justine is a VR artist and researcher, writer, filmmaker, and experimental media producer. she stages interactions in immersive media, 
 and across a myriad of Internet forms. her side job is in video production. 
 
 today, the affordances of linear text pose unique limitations and capacities that she, and everyone else, has yet to come to terms with. here, she
