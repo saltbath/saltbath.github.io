@@ -58,12 +58,17 @@
 .post-meta {
   display: block;
   margin: 5px 0 0;
-  font-family: $font-family-base;
+  font-family: $font-family-sub;
   font-size: $font-size-small;
   color: $text-color-light;
 }
 
 .post-link {
   display: inline;
+  
+}
+
+.post-tag {
+  font-family: $font-family-sub;
   
 }

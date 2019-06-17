@@ -43,8 +43,8 @@ a {
 ol,
 ul,
 p {
-  font-size: 1rem;
-  line-height: 1.66;
+  font-size: 1.5rem;
+  line-height: 1.4;
 }
 
 blockquote p {
@@ -65,3 +65,7 @@ hr {
     margin-right: 12px;
     font-family: arial;
 }
+
+.page-tag {
+  font-family: $font-family-sub;
+  }
