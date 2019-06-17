@@ -5,18 +5,29 @@ date:   2018-10-20 013:40:41 -0400
 tags: grad
 ---
 
+Recently, British philosopher Mary Midgley died. This afternoon I was thinking about her, and [what she said](https://www.theguardian.com/education/2005/oct/03/highereducation.uk2) in the Guardian about never finishing her PhD dissertation. She said, "I ended up unqualified -- and grateful for it." 
 
-Recently, British philosopher Mary Midgley died. This afternoon I was thinking about her. 
-And I was thinking about what she said [in the Guardian](https://www.theguardian.com/education/2005/oct/03/highereducation.uk2)
-about how she never finished her PhD dissertation. She said, "I ended up unqualified -- and grateful for it."
+How might someone who is perfectly thriving in academia, yet didn't undergo the PhD process, be different from how she'd be if she had done the PhD? I began thinking about how PhDification might mentally change me, and in what ways those changes might be desirable or not. (Desirable for me, anyway. We *could* start talking policy about educational institutions and their requirements. For example, we could rightly wonder whether it would be preferable for society if academia was radically restructured to minimize entry barriers against certain people, and started measuring academic contribution by some open metric instead. But at this point, anyway, I'm more concerned about how a dissertation would affect me as an individual.)
 
-I began thinking about my own experience with research and how it has shaped me. And as I begin projecting into the future, I wonder: if I continued to do this intensively, how will I change? Are there any cognitive costs that come with PhDification? Would I say that I've gotten smarter? 
+Naturally, I started looking back at my research experience this summer. Even in a relatively short time, I can say that an intensive, private, independent engagement with a narrow academic literature has shaped me in self-observable ways.  
 
-How does a PhD change you? How does a PhD enhance intelligence, and what ways does it not? What kinds of intelligence are kept intact by not staying in the PhD process? 
+So let's say I do a PhD, and continued to do this for several years at a much higher intensity. I'm definitely signing up for some long-term cognitive change, here. Are there any costs to this change? Was Midgley onto something?
 
-In some ways, I can say, research has made me smarter. I am definitely better now at doing what scholars do, and finding answers to questions the way scholars do. I know how I might go about using best academic practices to answer a question in a respectable, socially justifiable norms. I know better how I like to work when doing that research, so I can manage my performance better. I'm also smarter by virtue of knowing more about the world: I know more facts, I know the language scholars use to express themselves, and more importantly at least, I know how a particular discourse has been hacking away at a topic. Just knowing about how long-standing and widespread ways of representing and inquiring on a phenomenon can help me frame future questions. Again, research experience has made me more efficacious at doing more research.
+Would I say that research has made me... more thoughtful? More creative? More free-thinking? More curious? Smarter? 
 
-I think some really suspicious shit is going on with this 'competent speakers of a language' shit in philosophy. 
+Clearly, research has made me more able at answering questions I have in a particular way:  I can find answers to questions and express my findings in a way that other scholars would recognize as respectable, following the norms of academic 'best practice.' I also better understand my own behaviors when I research, so I can manage my performance more effectively. So research experience has made me more efficacious at doing more research. Obviously.
+
+In some ways, I'd say research has improved my ability to think about other topics, independent of scholarly standards. I know more about the world (which would definitely help more than it hurts with general thinking). I know more facts about what I studied, I've become familiar with more ways of applying language and concepts to organize thoughts, and most transferably, I know how a particular discourse centering around a topic has been hacking away at its subject for some time. I'm willing to bet that just understanding the streams of long-standing, widespread ways of people have represented and inquired about a phenomenon has made me better at framing future questions -- even outside of academia.
+
+The most telling change I've noticed is a heightened sensitivity to anything that could be tangentially relevant to my topic. 
+
+I feel attached to the topic, I feel bonded with it. Because it's an independent and self-driven project, I feel more invested in it, to the point where I can imagine how all things equal, I'd choose to read more about this topic than another. 
+
+Find new ways to be creative, while within scholarly norms, by seeing more diversity, stretch understanding of the parameters. 
+
+Thoughtful in applying
+
+
  
 
 
