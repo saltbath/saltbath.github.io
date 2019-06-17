@@ -2,7 +2,7 @@
 layout: post
 title:  "what is conceptual writing today?"
 date:   2019-08-15 013:40:41 -0400
-tags: conceptual writing, lit
+tags: conceptualwriting lit text
 ---
 
 There is an interesting genre in philosophy. The theorist begins with a little sociological
