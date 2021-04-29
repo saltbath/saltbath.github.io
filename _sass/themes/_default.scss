@@ -1,0 +1,40 @@
+// Typography
+$font-family-base: Arial Black, sans-serif;
+$font-family-sub:  Acumin Pro, sans-serif;
+
+$font-size-base:   18px;
+$line-height-base: 1.5;
+
+$font-size-mobile: 14px;
+
+$font-weight-base-normal: 600;
+$font-weight-base-bold:   700;
+
+$font-weight-sub-normal:  400;
+$font-weight-sub-bold:    700;
+
+$font-size-small: 1rem;
+
+$spacing-unit: 0em;
+$font-kerning: normal;
+
+// Color Scheme
+$text-color:            #262323;
+$text-color-light:      #616263;
+$title-color:           #000;
+
+$background-color:      #fff;
+
+$brand-color-base:      #194efc;
+$brand-color-sub:       #000;
+
+$white-color:           #fff;
+
+$grey-color:   lighten($text-color-light, 20%);
+$border-color: lighten($text-color-light, 20%);
+
+// Max width of the content area
+$content-width: 800px;
+
+// Breakpoints
+$reflow-point:  860px;
