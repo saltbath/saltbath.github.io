@@ -6,8 +6,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
@@ -53,8 +53,6 @@ GEM
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-tagging (1.1.0)
-      nuggets
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -71,10 +69,9 @@ GEM
     minitest (5.11.3)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
-    nuggets (1.6.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.3)
+    public_suffix (5.0.0)
     rack (2.0.5)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -101,7 +98,6 @@ DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-assets
   jekyll-feed (~> 0.6)
-  jekyll-tagging
   tzinfo-data
 
 BUNDLED WITH
